@@ -9,8 +9,8 @@ This project is licensed under the Creative Commons Attribution-NonCommercial 4.
 
 If you use this code in your work, please include the following attribution:
 
-"This code is derived from [clusterdc] ([https://github.com/Maximilien42/clusterdc])."
+"This code is derived from [clusterdc](https://github.com/Maximilien42/clusterdc)."
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact me at [maximilien.meyrieux@mail.mcgill.ca].
+If you have any questions or feedback, please feel free to contact me at maximilien.meyrieux@mail.mcgill.ca.
