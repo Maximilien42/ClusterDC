@@ -48,3 +48,12 @@ If you use this code in your work, please include the following attribution:
 ## Contact
 
 If you have any questions or feedback, please feel free to contact maximilien.meyrieux@mail.mcgill.ca and samer.hmoud@mail.mcgill.ca.
+
+## Acknowledgements
+
+I would like to acknowledge the PaCMAP team for providing the PaCMAP dimension reduction algorithm used in this project. The PaCMAP algorithm, developed by Yingfan Wang, Haiyang Huang, Cynthia Rudin, and Yaron Shaposhnik, is a valuable tool for visualizing high-dimensional data. 
+
+Wang, Y., Huang, H., Rudin, C., & Shaposhnik, Y. (2021). Understanding How Dimension Reduction Tools Work: An Empirical Approach to Deciphering t-SNE, UMAP, TriMap, and PaCMAP for Data Visualization. Journal of Machine Learning Research, 22(201), 1-73. [Link](http://jmlr.org/papers/v22/20-1061.html)
+
+
+
