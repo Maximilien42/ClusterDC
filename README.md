@@ -7,11 +7,11 @@ ClusterDC: a new clustering algorithm based on kernel-density contours tailored 
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. You can find a copy of the license in the LICENSE file in the root directory of this project.
 
-# User Manual
+## User Manual
 
 This user manual provides an overview of the input and output parameters of the `ClusterDC` function.
 
-## Input Parameters
+### Input Parameters
 
 The `ClusterDC` function takes the following input parameters:
 
@@ -25,7 +25,7 @@ The `ClusterDC` function takes the following input parameters:
 - `selection_method` (str/int): Method to select well-separated peaks. Can be 'first_gap', 'second_gap', 'third_gap', an int, or 'all'.
 - `bw` (array): The bandwidth used at each point if the `bw_method` is 'local'.
 
-## Output
+### Output
 
 The `ClusterDC` function returns the following outputs:
 
@@ -33,13 +33,13 @@ The `ClusterDC` function returns the following outputs:
 - `assignment` (array): An array of the assigned cluster labels for each point in `xy`.
 - `list_assignment` (list): A list of arrays containing the assigned cluster labels for each point when the 'all' selection method is used.
 
-## Example Notebook
+### Example Notebook
 
 To see an example of how to use the `ClusterDC` function, please refer to the provided Jupyter Notebook file `Example.ipynb`. The notebook demonstrates the usage of the function with sample data after a dimension reduction on an assay dataset and provides visualizations of the clustering results.
 
 Please note that you need to have Jupyter Notebook installed to run the example notebook.
 
-### Attribution
+## Attribution
 
 If you use this code in your work, please include the following attribution:
 
