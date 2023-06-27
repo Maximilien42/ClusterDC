@@ -43,7 +43,7 @@ Please note that you need to have Jupyter Notebook installed to run the example 
 
 If you use this code in your work, please include the following attribution:
 
-"This code is derived from https://github.com/Maximilien42/clusterdc."
+"This code is derived from https://github.com/Maximilien42/ClusterDC."
 
 ## Contact
 
