@@ -35,7 +35,7 @@ The `ClusterDC` function returns the following outputs:
 
 ### Example Notebook
 
-To see an example of how to use the `ClusterDC` function, please refer to the provided Jupyter Notebook file `Example.ipynb`. The notebook demonstrates the usage of the function with sample data after a dimension reduction on an assay dataset and provides visualizations of the clustering results.
+To see an example of how to use the `ClusterDC` function, please refer to the provided Jupyter Notebook file `Example.ipynb`. The notebook demonstrates the usage of the function with sample data after a PaCMAP dimension reduction on an assay dataset and provides visualizations of the clustering results.
 
 Please note that you need to have Jupyter Notebook installed to run the example notebook.
 
