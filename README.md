@@ -15,15 +15,15 @@ This user manual provides an overview of the input and output parameters of the 
 
 The `ClusterDC` function takes the following input parameters:
 
-- `x_points` (list): The list of x-coordinates of the points.
-- `y_points` (list): The list of y-coordinates of the points.
+- `x_points` (array/list): The list of x-coordinates of the points.
+- `y_points` (array/list): The list of y-coordinates of the points.
 - `levels` (int): The number of contour levels to create.
 - `num_points` (int): The number of points used for each side of the grid.
 - `min_point` (int): The minimum number of points to include inside a valid polygon.
-- `border_fraction` (float): The fraction to use as border size.
+- `border_fraction` (float): The fraction to use as border size (< 1).
 - `bw_method` (str/float): The method used for computing the bandwidth.
 - `selection_method` (str/int): Method to select well-separated peaks. Can be 'first_gap', 'second_gap', 'third_gap', an int, or 'all'.
-- `bw` (array): The bandwidth used at each point if the `bw_method` is 'local'.
+- `bw` (array/list): The bandwidth used at each point if the `bw_method` is 'local'.
 
 ### Output
 
