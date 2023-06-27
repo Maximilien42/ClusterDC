@@ -18,4 +18,4 @@ If you use this code in your work, please include the following attribution:
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact maximilien.meyrieux@mail.mcgill.ca.
+If you have any questions or feedback, please feel free to contact maximilien.meyrieux@mail.mcgill.ca and samer.hmoud@mail.mcgill.ca.
