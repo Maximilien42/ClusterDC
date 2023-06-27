@@ -1,5 +1,8 @@
-![3D plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/clusterdc/assets/51908644/d84b7790-1175-4fce-be66-63b548b51c76)# ClusterDC
+# ClusterDC
+
 ClusterDC: a new clustering algorithm based on kernel-density contours tailored for large datasets.
+
+![3D plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/clusterdc/assets/51908644/d84b7790-1175-4fce-be66-63b548b51c76)
 
 ## License
 
