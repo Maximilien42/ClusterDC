@@ -1,5 +1,5 @@
-# clusterdc
-A new clustering algorithm tailored for large datasets.
+# ClusterDC
+ClusterDC: a new clustering algorithm based on kernel-density contours tailored for large datasets.
 
 ## License
 
