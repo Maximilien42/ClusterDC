@@ -51,7 +51,7 @@ If you have any questions or feedback, please feel free to contact maximilien.me
 
 ## Acknowledgements
 
-I would like to acknowledge the PaCMAP team for providing the PaCMAP dimension reduction algorithm used in this project to reduce the dimension before applying ClusterDC. The PaCMAP algorithm, developed by Yingfan Wang, Haiyang Huang, Cynthia Rudin, and Yaron Shaposhnik, is a valuable tool for visualizing high-dimensional data. 
+I would like to acknowledge the PaCMAP team for providing the PaCMAP dimension reduction algorithm which was instrumental in reducing the dimensionality of the data prior to applying ClusterDC. The PaCMAP algorithm, developed by Yingfan Wang, Haiyang Huang, Cynthia Rudin, and Yaron Shaposhnik, is a valuable tool for visualizing high-dimensional data. 
 
 Wang, Y., Huang, H., Rudin, C., & Shaposhnik, Y. (2021). Understanding How Dimension Reduction Tools Work: An Empirical Approach to Deciphering t-SNE, UMAP, TriMap, and PaCMAP for Data Visualization. Journal of Machine Learning Research, 22(201), 1-73. [Link](http://jmlr.org/papers/v22/20-1061.html)
 
