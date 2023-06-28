@@ -2,9 +2,9 @@
 
 ClusterDC: a new clustering algorithm based on kernel-density contours tailored for large geological datasets.
 
-![3D plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/clusterdc/assets/51908644/d84b7790-1175-4fce-be66-63b548b51c76)
+![3D plot of the Kernel Density Estimation - 4]((https://github.com/Maximilien42/ClusterDC/blob/main/Images/3D%20plot%20of%20the%20Kernel%20Density%20Estimation%20-%204.svg))
 
-![Contour plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/clusterdc/assets/51908644/49c236c1-9d18-4eba-a4c7-c09f9c76b435)
+![Contour plot of the Kernel Density Estimation - 4](Images/Contour plot of the Kernel Density Estimation - 4.svg)
 
 ## User Manual
 
