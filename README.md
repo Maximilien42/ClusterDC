@@ -21,7 +21,7 @@ The `ClusterDC` function takes the following input parameters:
 - `num_points` (int): The number of points used for each side of the grid.
 - `min_point` (int): The minimum number of points to include inside a valid polygon.
 - `border_fraction` (float): The fraction to use as border size (< 1).
-- `bw_method` (str/float): The method used for computing the bandwidth. It can be 'scott' or 'silverman' for global bandwidth, or 'local' if qn array of local adaptive bandwidths is used and provided in 'bw'.
+- `bw_method` (str/float): The method used for computing the bandwidth. It can be 'scott' or 'silverman' for global bandwidth, or 'local' if an array of local adaptive bandwidths is used and provided in 'bw'.
 - `selection_method` (str/int): Method to select well-separated peaks. Can be 'first_gap', 'second_gap', 'third_gap', an int, or 'all'.
 - `bw` (array/list): The bandwidth used at each point if the `bw_method` is 'local'.
 
