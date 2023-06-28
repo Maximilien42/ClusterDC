@@ -28,7 +28,7 @@ The `ClusterDC` function takes the following input parameters:
 
 The `ClusterDC` function returns the following outputs:
 
-- `density_info` (list): A list containing all the information required to plot the kernel density estimation (KDE) function. It includes the density values, the KDE function, and the grid coordinates.
+- `density_info` (list): A list containing all the information required to plot the Kernel Density Estimation (KDE) function. It includes the density values, the KDE function, and the grid coordinates.
 - `assignment` (array): An array of the assigned cluster labels for each point.
 - `list_assignment` (list): A list of arrays containing the assigned cluster labels for each point when the 'all' selection method is used.
 
