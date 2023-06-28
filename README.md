@@ -1,11 +1,10 @@
 # ClusterDC
 
 ClusterDC: a new clustering algorithm based on kernel-density contours tailored for large geological datasets.
-![3D plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/clusterdc/assets/51908644/d84b7790-1175-4fce-be66-63b548b51c76)
-![Contour plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/clusterdc/assets/51908644/49c236c1-9d18-4eba-a4c7-c09f9c76b435)
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![3D plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/clusterdc/assets/51908644/d84b7790-1175-4fce-be66-63b548b51c76)
+
+![Contour plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/clusterdc/assets/51908644/49c236c1-9d18-4eba-a4c7-c09f9c76b435)
 
 ## User Manual
 
@@ -39,24 +38,25 @@ To see an example of how to use the `ClusterDC` function, please refer to the pr
 
 Please note that you need to have Jupyter Notebook installed to run the example notebook.
 
+### Upcoming Improvements
+The authors of this code have plans to further improve its functionality and usability. One of the upcoming milestones is the development of a dedicated library for utilizing ClusterDC, which will be easily installable via pip. Keep an eye out for updates as the repository progresses toward this goal!
+
+## Contact
+
+If you have any questions or feedback, please feel free to contact maximilien.meyrieux@mail.mcgill.ca and samer.hmoud@mail.mcgill.ca.
+
 ## Attribution
 
 If you use this code in your work, please include the following attribution:
 
 "This code is derived from https://github.com/Maximilien42/ClusterDC."
 
-## Upcoming Improvements
-The authors of this code have plans to further improve its functionality and usability. One of the upcoming milestones is the development of a dedicated library for utilizing ClusterDC, which will be easily installable via pip. Keep an eye out for updates as the repository progresses toward this goal.
+## License
 
-## Contact
-
-If you have any questions or feedback, please feel free to contact maximilien.meyrieux@mail.mcgill.ca and samer.hmoud@mail.mcgill.ca.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
-I would like to acknowledge the PaCMAP team for providing the PaCMAP dimension reduction algorithm which was instrumental in reducing the dimensionality of the data prior to applying ClusterDC. The PaCMAP algorithm, developed by Yingfan Wang, Haiyang Huang, Cynthia Rudin, and Yaron Shaposhnik, is a valuable tool for visualizing high-dimensional data. 
+The authors of this code would like to acknowledge the PaCMAP team for providing the PaCMAP dimension reduction algorithm which was instrumental in reducing the dimensionality of the data prior to applying ClusterDC. The PaCMAP algorithm, developed by Yingfan Wang, Haiyang Huang, Cynthia Rudin, and Yaron Shaposhnik, is a valuable tool for visualizing high-dimensional data. 
 
 Wang, Y., Huang, H., Rudin, C., & Shaposhnik, Y. (2021). Understanding How Dimension Reduction Tools Work: An Empirical Approach to Deciphering t-SNE, UMAP, TriMap, and PaCMAP for Data Visualization. Journal of Machine Learning Research, 22(201), 1-73. [Link](http://jmlr.org/papers/v22/20-1061.html)
-
-
-
