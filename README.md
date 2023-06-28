@@ -45,6 +45,9 @@ If you use this code in your work, please include the following attribution:
 
 "This code is derived from https://github.com/Maximilien42/ClusterDC."
 
+## Upcoming Improvements
+The authors of this code have plans to further improve its functionality and usability. One of the upcoming milestones is the development of a dedicated library for utilizing ClusterDC, which will be easily installable via pip. Keep an eye out for updates as the repository progresses toward this goal.
+
 ## Contact
 
 If you have any questions or feedback, please feel free to contact maximilien.meyrieux@mail.mcgill.ca and samer.hmoud@mail.mcgill.ca.
