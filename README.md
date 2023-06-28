@@ -57,6 +57,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-The authors of this code would like to acknowledge the PaCMAP team for providing the PaCMAP dimension reduction algorithm which was instrumental in reducing the dimensionality of the data prior to applying ClusterDC. The PaCMAP algorithm, developed by Yingfan Wang, Haiyang Huang, Cynthia Rudin, and Yaron Shaposhnik, is a valuable tool for visualizing high-dimensional data. 
+We would like to acknowledge the PaCMAP team for providing the PaCMAP dimension reduction algorithm, which was instrumental in reducing the dimensionality of the data prior to applying ClusterDC. The PaCMAP algorithm, developed by Yingfan Wang, Haiyang Huang, Cynthia Rudin, and Yaron Shaposhnik, is a valuable tool for visualizing high-dimensional data. 
 
-Wang, Y., Huang, H., Rudin, C., & Shaposhnik, Y. (2021). Understanding How Dimension Reduction Tools Work: An Empirical Approach to Deciphering t-SNE, UMAP, TriMap, and PaCMAP for Data Visualization. Journal of Machine Learning Research, 22(201), 1-73. [Link](http://jmlr.org/papers/v22/20-1061.html)
+For more information, refer to the PaCMAP GitHub repository at https://github.com/YingfanWang/PaCMAP.
+
+We are also grateful to the ClusterDV team for their contributions. ClusterDV, developed by João C. Marques and Michael B. Orger, provided foundational concepts. To address limitations in processing large databases, we built the ClusterDC algorithm as an extension. 
+
+For more details on ClusterDV, see the ClusterDV GitHub repository at https://github.com/jcbmarques/clusterdv.
+
+Please refer to the following references for more information:
+- [Wang, Y., Huang, H., Rudin, C., & Shaposhnik, Y. (2021). Understanding How Dimension Reduction Tools Work: An Empirical Approach to Deciphering t-SNE, UMAP, TriMap, and PaCMAP for Data Visualization. Journal of Machine Learning Research, 22(201), 1-73.](http://jmlr.org/papers/v22/20-1061.html)
+- [Marques, J. C., & Orger, M. B. (2019). Clusterdv: a simple density-based clustering method that is robust, general and automatic. Bioinformatics, 35(12), 2125-2132.](https://doi.org/10.1093/bioinformatics/bty907)
