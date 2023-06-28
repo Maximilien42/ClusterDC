@@ -21,7 +21,7 @@ The `ClusterDC` function takes the following input parameters:
 - `num_points` (int): The number of points used for each side of the grid.
 - `min_point` (int): The minimum number of points to include inside a valid polygon.
 - `border_fraction` (float): The fraction to use as border size (< 1).
-- `bw_method` (str/float): The method used for computing the bandwidth.
+- `bw_method` (str/float): The method used for computing the bandwidth. It can be 'scott' or 'silverman' for global bandwidth, or 'local' if qn array of local adaptive bandwidths is used and provided in 'bw'.
 - `selection_method` (str/int): Method to select well-separated peaks. Can be 'first_gap', 'second_gap', 'third_gap', an int, or 'all'.
 - `bw` (array/list): The bandwidth used at each point if the `bw_method` is 'local'.
 
@@ -30,7 +30,7 @@ The `ClusterDC` function takes the following input parameters:
 The `ClusterDC` function returns the following outputs:
 
 - `density_info` (list): A list containing all the information required to plot the kernel density estimation (KDE) function. It includes the density values, the KDE function, and the grid coordinates.
-- `assignment` (array): An array of the assigned cluster labels for each point in `xy`.
+- `assignment` (array): An array of the assigned cluster labels for each point.
 - `list_assignment` (list): A list of arrays containing the assigned cluster labels for each point when the 'all' selection method is used.
 
 ### Example Notebook
