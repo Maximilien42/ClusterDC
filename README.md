@@ -5,7 +5,7 @@ ClusterDC: a new clustering algorithm based on kernel-density contours tailored 
 ![Contour plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/clusterdc/assets/51908644/49c236c1-9d18-4eba-a4c7-c09f9c76b435)
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## User Manual
 
