@@ -61,7 +61,7 @@ We would like to acknowledge the PaCMAP team for providing the PaCMAP dimension 
 
 For more information, refer to the PaCMAP GitHub repository at https://github.com/YingfanWang/PaCMAP.
 
-We are also grateful to the ClusterDV team for their contributions. ClusterDV, developed by João C. Marques and Michael B. Orger, provided foundational concepts. To address limitations in processing large databases, we built the ClusterDC algorithm as an extension. 
+We are also grateful to the ClusterDV team for the development of the ClusterDV MATLAB code and the synthetic datasets provided with it. ClusterDV, developed by João C. Marques and Michael B. Orger, provided foundational concepts for ClusterDC. ClusterDC was developed as an extension of ClusterDV to overcome its limitations in processing large datasets, allowing for more efficient handling of geological datasets with thousands to hundreds of thousands of samples.
 
 For more details on ClusterDV, see the ClusterDV GitHub repository at https://github.com/jcbmarques/clusterdv.
 
