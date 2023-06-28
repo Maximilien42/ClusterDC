@@ -66,5 +66,7 @@ We are also grateful to the ClusterDV team for the development of the ClusterDV 
 For more details on ClusterDV, see the ClusterDV GitHub repository at https://github.com/jcbmarques/clusterdv.
 
 Please refer to the following references for more information:
+
 - [Wang, Y., Huang, H., Rudin, C., & Shaposhnik, Y. (2021). Understanding How Dimension Reduction Tools Work: An Empirical Approach to Deciphering t-SNE, UMAP, TriMap, and PaCMAP for Data Visualization. Journal of Machine Learning Research, 22(201), 1-73.](http://jmlr.org/papers/v22/20-1061.html)
+
 - [Marques, J. C., & Orger, M. B. (2019). Clusterdv: a simple density-based clustering method that is robust, general and automatic. Bioinformatics, 35(12), 2125-2132.](https://doi.org/10.1093/bioinformatics/bty907)
