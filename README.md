@@ -56,7 +56,7 @@ If you have any questions or feedback, please feel free to contact maximilien.me
 
 If you use ClusterDC in your work, please include the following attribution:
 
-[Meyrieux, M., Hmoud, S., van Geffen, P. et al. CLUSTERDC: A New Density-Based Clustering Algorithm and its Application in a Geological Material Characterization Workflow. Nat Resour Res (2024). https://doi.org/10.1007/s11053-024-10379-5]([http://jmlr.org/papers/v22/20-1061.html](https://link.springer.com/article/10.1007/s11053-024-10379-5))
+[Meyrieux, M., Hmoud, S., van Geffen, P. et al. CLUSTERDC: A New Density-Based Clustering Algorithm and its Application in a Geological Material Characterization Workflow. Nat Resour Res (2024). https://doi.org/10.1007/s11053-024-10379-5](https://link.springer.com/article/10.1007/s11053-024-10379-5)
 
 ## License
 
