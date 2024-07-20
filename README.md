@@ -8,6 +8,7 @@ For more information about how the algorithm works, please refer to the publicat
 
 The publication also presents two case studies demonstrating the application of ClusterDC. These case studies illustrate how the algorithm supports the characterization of geological material types based on multi-element geochemistry, helping mining companies optimize downstream processes and mitigate technical risks by improving their understanding of their orebodies.
 
+
 ![3D plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/ClusterDC/blob/main/Images/3D%20plot%20of%20the%20Kernel%20Density%20Estimation%20-%204.svg)
 
 ![Contour plot of the Kernel Density Estimation - 4](https://github.com/Maximilien42/ClusterDC/blob/main/Images/Contour%20plot%20of%20the%20Kernel%20Density%20Estimation%20-%204.svg)
